@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FastIndexesBar">
+
+        <!--背景色-->
+        <attr name="BACKGROUND_COLOR" format="color"/>
+        <!--字体大小-->
+        <attr name="TEXT_SIZE" format="dimension"/>
+        <!--字体颜色-->
+        <attr name="TEXT_COLOR" format="color"/>
+        <!--选中文字的字体颜色-->
+        <attr name="SELECT_TEXT_COLOR" format="color"/>
+        <!--标记#号显示在末尾还是首位-->
+        <attr name="IS_SPECIAL_IN_END" format="boolean"/>
+
+    </declare-styleable>
+</resources>

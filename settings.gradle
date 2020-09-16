@@ -1,0 +1,3 @@
+include ':MyFastIndexesBar'
+include ':app'
+rootProject.name = "TestFastIndexesBar"
