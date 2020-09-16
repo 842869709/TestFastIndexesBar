@@ -6,8 +6,8 @@
 图片如果不展示请出国即可
 图片做了帧率压缩，所以有卡顿，实际效果顺滑
 
-![](https://github.com/842869709/FastIndexesBar/blob/master/test0.png)
-![](https://github.com/842869709/FastIndexesBar/blob/master/test1.png)
+![](https://github.com/842869709/TestFastIndexesBar/blob/master/test0.png)
+![](https://github.com/842869709/TestFastIndexesBar/blob/master/test1.png)
 
 
 ## 1.用法
