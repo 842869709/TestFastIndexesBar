@@ -23,7 +23,7 @@
 	}
 	
 	dependencies {
-	        implementation 'com.github.842869709:FastIndexesBar:Tag'
+	        implementation 'com.github.842869709:TestFastIndexesBar:Tag'
 	}
 ```
 方法二：Maven仓库
@@ -38,7 +38,7 @@
 ```
 <dependency>
 	    <groupId>com.github.842869709</groupId>
-	    <artifactId>FastIndexesBar</artifactId>
+	    <artifactId>TestFastIndexesBar</artifactId>
 	    <version>Tag</version>
 	</dependency>
 ```
